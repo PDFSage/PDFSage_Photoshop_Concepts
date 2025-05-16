@@ -1,0 +1,7 @@
+PyQT5
+opencv-python
+pillow
+reportlab
+PyPDF2
+pytesseract
+winsdk
